@@ -17,6 +17,7 @@ public class Download_URL {
             e.printStackTrace();
         }
     }
+
     // Using Java IO
     public static void saveFileFromUrlWithJavaIO(String fileName, String fileUrl)
             throws  IOException {
